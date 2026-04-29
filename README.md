@@ -46,8 +46,6 @@ I'm a Computer Science student with a strong passion for Artificial Intelligence
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="24" align="absmiddle" /> Electron <br><br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="24" align="absmiddle" /> Bootstrap &nbsp;&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="24" align="absmiddle" /> Tailwind &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="24" align="absmiddle" /> Sass &nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="24" align="absmiddle" /> PyTorch &nbsp;&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="24" align="absmiddle" /> OpenCV &nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/middleman.svg" width="24" align="absmiddle" /> Middleman
 
