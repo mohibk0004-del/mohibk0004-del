@@ -14,10 +14,10 @@
 
 I'm a Computer Science student with a strong passion for Artificial Intelligence, Cybersecurity, and Game Development. When I'm not writing code or building 3D environments, I'm a photographer capturing moments with my Nikon D3500. 
 
-* 🎓 **Current Focus:** Deepening my knowledge in AI, Cybersecurity, and developing my Final Year Project.
+* 🎓 **Current Focus:** Deepening my knowledge in AI, Web dev, Game dev, and developing projects.
 * 🎬 **Creative Professional:** I have nearly 8 years of experience in video editing and graphic design. From 2020 to 2025, I worked as a freelance editor, specializing heavily in gaming content.
 * 💡 **What I do:** Software development, game programming, and building out-of-the-box UI/UX.
-* 🗣️ **Languages:** Urdu (Native), English (Fluent), Seraiki (Beginner).
+* 🗣️ **Languages:** Urdu (Native), English (Fluent), Arabic (Beginner).
 
 ---
 
