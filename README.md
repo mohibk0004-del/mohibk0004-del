@@ -81,14 +81,30 @@ A second-screen companion app designed to make live matches feel like a shared s
 * **Live Pulse:** Real-time fan sentiment and match pressure visualization using DFL data, updating dynamically as the game unfolds.
 * **Predict & Earn:** Interactive micro-predictions (e.g., next goal scorer, next substitution) made before and during the match, feeding points into a competitive leaderboard.
 * **Adidas Drop Moments:** Automatically generates personalized, shareable Adidas-branded hype cards during key match events (goals, red cards, milestones).
+* **Tech Stack:**
+* **Frontend:** React + Vite, Tailwind CSS, Framer Motion for animations
+* **Backend:** Node.js + Express, REST API + WebSocket server (Socket.io)
+* **Database:** PostgreSQL — for users, points, predictions, vault items, leaderboard
+* **Auth:** AWS Services — email/password + guest session via anonymous auth
+* **Real-time:** Socket.io for live match events, leaderboard updates, and prediction resolution
+* **Image generation:** HTML Canvas API for Adidas Drop Moment shareable cards
+* **Hosting:** Frontend on Vercel, Backend on Railway
 
-#### [ASCII Terminal Portfolio](#) *(In Development)*
+#### [ASCII Terminal Portfolio](https://mohib.app)
 A highly interactive, visually striking portfolio website built with a custom terminal aesthetic. 
-* **Features:** Custom startup animations, interactive 3D elements, a custom top bar, and smooth scrolling designed to stand out. 
+* **Features:** Custom startup animations, interactive 3D elements, a custom top bar, and smooth scrolling designed to stand out.
+* **Tech Stack::**
+* **Frontend:** React Native + TypeScript, built with Vite
+* **Styling:** Tailwind CSS + PostCSS + Autoprefixer
+* **Graphics / Motion:** React Three, Framer Motion.
+* **Tooling:** TypeScript, ESLint, Vite, npm.
+* **Backend:** Node.js + Express with cors and dotenv (simple server).
+* **Dev / Deploy:** Vercel & Railway
+* **Runtime requirement:** Node.js 18+
 
 #### [3D Platformer](#)
 A cute, stylized 3D platformer game built from the ground up.
-* **Tech Stack:** Unreal Engine 4.
+* **Tech Stack:** Unity, Blender.
 * **Focus:** Engaging mechanics, stylized environmental design, and smooth player controls.
 
 ---
