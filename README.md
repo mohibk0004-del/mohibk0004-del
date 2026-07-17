@@ -76,7 +76,7 @@ I'm a Computer Science student with a strong passion for Artificial Intelligence
 
 ### 🚀 Featured Projects
 
-#### [Sideline](#) *(In Development)*
+#### [Sideline](https://github.com/amna0x/sideline)
 A second-screen companion app designed to make live matches feel like a shared social experience—even if you're watching alone. 
 * **Live Pulse:** Real-time fan sentiment and match pressure visualization using DFL data, updating dynamically as the game unfolds.
 * **Predict & Earn:** Interactive micro-predictions (e.g., next goal scorer, next substitution) made before and during the match, feeding points into a competitive leaderboard.
