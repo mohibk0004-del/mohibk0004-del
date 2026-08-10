@@ -76,6 +76,12 @@ I'm a Computer Science student with a strong passion for Artificial Intelligence
 
 ### 🚀 Featured Projects
 
+#### [EasyRes](https://github.com/mohibk0004-del/easyres)
+A modern, lightweight Windows utility to instantly switch to custom and stretched resolutions without relying on heavy driver software. 
+* **Native Windows API:** Directly interfaces with the Windows display APIs (ChangeDisplaySettingsEx) for instant, lag-free resolution switching.
+* **System Tray Access:** Features quick-switching presets accessible directly from the Windows taskbar.
+* **Tech Stack:** Python, PyQt6, ctypes, Win32 API
+
 #### [Sideline](https://github.com/amna0x/sideline)
 A second-screen companion app designed to make live matches feel like a shared social experience—even if you're watching alone. 
 * **Live Pulse:** Real-time fan sentiment and match pressure visualization using DFL data, updating dynamically as the game unfolds.
