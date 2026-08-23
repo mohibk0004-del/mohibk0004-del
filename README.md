@@ -81,7 +81,7 @@ An AI-powered study workspace that turns messy notes, PDFs, images, or a typed t
 * **Study Generation:** Builds notes, examples, anti-patterns, flashcards, multiple-choice questions, and chat context from uploaded or typed material.
 * **Practice Games:** Includes Boss Rush, Matchmaker, Cloze Forge, and Defuse for fast recall and more active studying.
 * **Full-stack Product:** Uses auth, persistent notebooks, onboarding, database-backed study data, caching, and production deployment.
-* **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, NextAuth.js, Drizzle ORM, PostgreSQL, Upstash Redis, Vercel AI SDK, Gemini/OpenAI/Anthropic providers, Vercel
+* **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, NextAuth.js, Drizzle ORM, PostgreSQL, Upstash Redis, Vercel
 
 #### [EasyRes](https://github.com/mohibk0004-del/easyres)
 A modern, lightweight Windows utility to instantly switch to custom and stretched resolutions without relying on heavy driver software. 
