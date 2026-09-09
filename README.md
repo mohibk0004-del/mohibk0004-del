@@ -1,128 +1,108 @@
 <div align="center">
 
-# Hi there, I'm Muhammad Mohib Ullah Khan 👋
+# Hi, I'm Muhammad Mohib Ullah Khan
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Computer+Science+Student;AI+%26+Cybersecurity+Focus;Game+Developer+%26+Designer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Computer+Science+Student;AI+%26+Cybersecurity+Focus;Game+Developer+%26+Designer" alt="Typing SVG" />
+</a>
 
-*Bridging the gap between robust software, interactive game development, and creative design.*
+*Computer Science student interested in software, AI, cybersecurity, game development, and design.*
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-I'm a Computer Science student with a strong passion for Artificial Intelligence, Cybersecurity, and Game Development. When I'm not writing code or building 3D environments, I'm a photographer capturing moments with my Nikon D3500. 
+I'm a Computer Science student who enjoys building things across software development, AI, cybersecurity, and game development. I also have a creative background in video editing, graphic design, and photography, so I tend to enjoy projects that combine technical work with good visuals and user experience.
 
-* 🎓 **Current Focus:** Deepening my knowledge in AI, Web dev, Game dev, and developing projects.
-* 🎬 **Creative Professional:** I have nearly 8 years of experience in video editing and graphic design. From 2020 to 2025, I worked as a freelance editor, specializing heavily in gaming content.
-* 💡 **What I do:** Software development, game programming, and building out-of-the-box UI/UX.
-* 🗣️ **Languages:** Urdu (Native), English (Fluent), Arabic (Beginner).
-
----
-
-### 🛠️ The languages and tools i've worked with
-
-**Programming Languages**<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="24" align="absmiddle" /> C &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="24" align="absmiddle" /> C++ &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="24" align="absmiddle" /> C# &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="24" align="absmiddle" /> Python &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="24" align="absmiddle" /> JavaScript &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="24" align="absmiddle" /> PHP &nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="24" align="absmiddle" /> Bash &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="24" align="absmiddle" /> HTML5 &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="24" align="absmiddle" /> CSS3
-
-<br>**Frameworks & Libraries**<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="24" align="absmiddle" /> React &nbsp;&nbsp;&nbsp;
-<img src="https://reactnative.dev/img/header_logo.svg" width="24" align="absmiddle" /> React Native &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="24" align="absmiddle" /> Next.js &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="24" align="absmiddle" /> Node.js &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="24" align="absmiddle" /> Express &nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="24" align="absmiddle" /> Flutter &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="24" align="absmiddle" /> Django &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="24" align="absmiddle" /> .NET &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="24" align="absmiddle" /> Electron <br><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="24" align="absmiddle" /> Bootstrap &nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="24" align="absmiddle" /> Tailwind &nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="24" align="absmiddle" /> OpenCV &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/middleman.svg" width="24" align="absmiddle" /> Middleman
-
-<br>**Databases & Cloud Hosting**<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="24" align="absmiddle" /> MySQL &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="24" align="absmiddle" /> PostgreSQL &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="24" align="absmiddle" /> MongoDB &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="24" align="absmiddle" /> Redis &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="24" align="absmiddle" /> AWS &nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="24" align="absmiddle" /> Azure &nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="24" align="absmiddle" /> Heroku
-
-<br>**Game Development, 3D & Design**<br>
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="24" align="absmiddle" /> Unity &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" width="24" align="absmiddle" /> Unreal Engine &nbsp;&nbsp;&nbsp;
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="24" align="absmiddle" /> Blender &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="24" align="absmiddle" /> Photoshop &nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="24" align="absmiddle" /> Illustrator &nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="24" align="absmiddle" /> Figma &nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="24" align="absmiddle" /> Framer
-
-<br>**OS & Tools**<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="24" align="absmiddle" /> Linux &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="24" align="absmiddle" /> Android &nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="24" align="absmiddle" /> Git
+* **Current Focus:** Improving my skills in AI, web development, game development, and building projects that help me learn by doing.
+* **Creative Background:** I have nearly eight years of experience in video editing and graphic design. From 2020 to 2025, I worked as a freelance editor, with most of my work focused on gaming content.
+* **What I Build:** Software projects, games, interactive interfaces, and UI/UX concepts.
+* **Languages:** Urdu (Native), English (Fluent), Arabic (Beginner).
+* **Photography:** I also enjoy photography and shoot with a Nikon D3500.
 
 ---
 
-### 🚀 Featured Projects
+### Languages and Tools I've Worked With
+
+**Programming Languages**<br><br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="24" align="absmiddle" alt="C" /> C     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="24" align="absmiddle" alt="C++" /> C++     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="24" align="absmiddle" alt="C#" /> C#     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="24" align="absmiddle" alt="Python" /> Python     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="24" align="absmiddle" alt="JavaScript" /> JavaScript     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="24" align="absmiddle" alt="PHP" /> PHP     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="24" align="absmiddle" alt="Bash" /> Bash     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="24" align="absmiddle" alt="HTML5" /> HTML5     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="24" align="absmiddle" alt="CSS3" /> CSS3
+
+<br>
+
+**Frameworks and Libraries**<br><br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="24" align="absmiddle" alt="React" /> React     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" width="24" align="absmiddle" alt="React Native" /> React Native     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="24" align="absmiddle" alt="Next.js" /> Next.js     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="24" align="absmiddle" alt="Node.js" /> Node.js     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="24" align="absmiddle" alt="Express" /> Express     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="24" align="absmiddle" alt="Flutter" /> Flutter     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="24" align="absmiddle" alt="Django" /> Django     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="24" align="absmiddle" alt=".NET" /> .NET     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" width="24" align="absmiddle" alt="Electron" /> Electron <br><br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="24" align="absmiddle" alt="Bootstrap" /> Bootstrap     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="24" align="absmiddle" alt="Tailwind CSS" /> Tailwind CSS     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="24" align="absmiddle" alt="OpenCV" /> OpenCV     <img src="https://cdn.simpleicons.org/middleman" width="24" align="absmiddle" alt="Middleman" /> Middleman
+
+<br>
+
+**Databases and Cloud Hosting**<br><br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="24" align="absmiddle" alt="MySQL" /> MySQL     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="24" align="absmiddle" alt="PostgreSQL" /> PostgreSQL     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="24" align="absmiddle" alt="MongoDB" /> MongoDB     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="24" align="absmiddle" alt="Redis" /> Redis     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="24" align="absmiddle" alt="AWS" /> AWS     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="24" align="absmiddle" alt="Azure" /> Azure     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" width="24" align="absmiddle" alt="Heroku" /> Heroku
+
+<br>
+
+**Game Development, 3D and Design**<br><br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="24" align="absmiddle" alt="Unity" /> Unity     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="24" align="absmiddle" alt="Unreal Engine" /> Unreal Engine     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="24" align="absmiddle" alt="Blender" /> Blender     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="24" align="absmiddle" alt="Photoshop" /> Photoshop     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="24" align="absmiddle" alt="Illustrator" /> Illustrator     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="24" align="absmiddle" alt="Figma" /> Figma     <img src="https://cdn.simpleicons.org/framer" width="24" align="absmiddle" alt="Framer" /> Framer
+
+<br>
+
+**Operating Systems and Tools**<br><br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="24" align="absmiddle" alt="Linux" /> Linux     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="24" align="absmiddle" alt="Android" /> Android     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="24" align="absmiddle" alt="Git" /> Git
+
+---
+
+### Featured Projects
 
 #### [Zero-in](https://github.com/mohibk0004-del/zero-in-workspace)
-An AI-powered study workspace that turns messy notes, PDFs, images, or a typed topic into structured study material and game-based recall practice.
-* **Study Generation:** Builds notes, examples, anti-patterns, flashcards, multiple-choice questions, and chat context from uploaded or typed material.
-* **Practice Games:** Includes Boss Rush, Matchmaker, Cloze Forge, and Defuse for fast recall and more active studying.
-* **Full-stack Product:** Uses auth, persistent notebooks, onboarding, database-backed study data, caching, and production deployment.
+
+An AI-powered study workspace that turns notes, PDFs, images, and typed topics into structured study material and interactive recall practice.
+
+* **Study Generation:** Creates notes, examples, anti-patterns, flashcards, multiple-choice questions, and supporting chat context from uploaded or typed material.
+* **Practice Games:** Includes Boss Rush, Matchmaker, Cloze Forge, and Defuse to make recall practice more active.
+* **Full-stack Product:** Includes authentication, persistent notebooks, onboarding, database-backed study data, caching, and production deployment.
 * **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, NextAuth.js, Drizzle ORM, PostgreSQL, Upstash Redis, Vercel
 
 #### [EasyRes](https://github.com/mohibk0004-del/easyres)
-A modern, lightweight Windows utility to instantly switch to custom and stretched resolutions without relying on heavy driver software. 
-* **Native Windows API:** Directly interfaces with the Windows display APIs (ChangeDisplaySettingsEx) for instant, lag-free resolution switching.
-* **System Tray Access:** Features quick-switching presets accessible directly from the Windows taskbar.
+
+A lightweight Windows utility for quickly switching between custom and stretched resolutions without needing to open heavier driver software.
+
+* **Native Windows API:** Uses `ChangeDisplaySettingsEx` to switch resolutions directly through the Windows display APIs.
+* **System Tray Access:** Provides quick access to saved resolution presets from the Windows taskbar.
 * **Tech Stack:** Python, PyQt6, ctypes, Win32 API
 
 #### [Sideline](https://github.com/amna0x/sideline)
-A second-screen companion app designed to make live matches feel like a shared social experience—even if you're watching alone. 
-* **Live Pulse:** Real-time fan sentiment and match pressure visualization using DFL data, updating dynamically as the game unfolds.
-* **Predict & Earn:** Interactive micro-predictions (e.g., next goal scorer, next substitution) made before and during the match, feeding points into a competitive leaderboard.
-* **Adidas Drop Moments:** Automatically generates personalized, shareable Adidas-branded hype cards during key match events (goals, red cards, milestones).
-* **Tech Stack:**
-* **Frontend:** React + Vite, Tailwind CSS, Framer Motion for animations
-* **Backend:** Node.js + Express, REST API + WebSocket server (Socket.io)
-* **Database:** PostgreSQL — for users, points, predictions, vault items, leaderboard
-* **Auth:** AWS Services — email/password + guest session via anonymous auth
+
+A second-screen companion app built to make live matches feel more social and interactive, even when you're watching on your own.
+
+* **Live Pulse:** Visualizes fan sentiment and match pressure using DFL data, with updates as the match develops.
+* **Predict and Earn:** Lets users make small predictions before and during matches, such as the next goal scorer or substitution, and earn leaderboard points.
+* **Adidas Drop Moments:** Generates personalized Adidas-branded cards around important match events such as goals, red cards, and milestones.
+* **Frontend:** React + Vite, Tailwind CSS, Framer Motion
+* **Backend:** Node.js + Express, REST API, WebSocket server with Socket.io
+* **Database:** PostgreSQL for users, points, predictions, vault items, and leaderboard data
+* **Authentication:** AWS Services with email/password and guest sessions through anonymous auth
 * **Real-time:** Socket.io for live match events, leaderboard updates, and prediction resolution
-* **Image generation:** HTML Canvas API for Adidas Drop Moment shareable cards
-* **Hosting:** Frontend on Vercel, Backend on Railway
+* **Image Generation:** HTML Canvas API for shareable Adidas Drop Moment cards
+* **Hosting:** Vercel for the frontend, Railway for the backend
 
 #### [ASCII Terminal Portfolio](https://mohib.app)
-A highly interactive, visually striking portfolio website built with a custom terminal aesthetic. 
-* **Features:** Custom startup animations, interactive 3D elements, a custom top bar, and smooth scrolling designed to stand out.
-* **Tech Stack::**
+
+An interactive portfolio website built around a custom terminal-inspired interface.
+
+* **Features:** Startup animations, interactive 3D elements, a custom top bar, and smooth scrolling.
 * **Frontend:** React Native + TypeScript, built with Vite
-* **Styling:** Tailwind CSS + PostCSS + Autoprefixer
-* **Graphics / Motion:** React Three, Framer Motion.
-* **Tooling:** TypeScript, ESLint, Vite, npm.
-* **Backend:** Node.js + Express with cors and dotenv (simple server).
-* **Dev / Deploy:** Vercel & Railway
-* **Runtime requirement:** Node.js 18+
+* **Styling:** Tailwind CSS, PostCSS, Autoprefixer
+* **Graphics and Motion:** React Three, Framer Motion
+* **Tooling:** TypeScript, ESLint, Vite, npm
+* **Backend:** Node.js + Express with CORS and dotenv
+* **Deployment:** Vercel and Railway
+* **Runtime Requirement:** Node.js 18+
 
 #### [3D Platformer](#)
-A cute, stylized 3D platformer game built from the ground up.
-* **Tech Stack:** Unity, Blender.
-* **Focus:** Engaging mechanics, stylized environmental design, and smooth player controls.
+
+A stylized 3D platformer built from the ground up, with a focus on responsive movement and a simple, polished visual style.
+
+* **Tech Stack:** Unity, Blender
+* **Focus:** Player movement, gameplay mechanics, environment design, and smooth controls
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohibk0004-del&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohib's GitHub Stats" width="48%" />
@@ -131,9 +111,13 @@ A cute, stylized 3D platformer game built from the ground up.
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect
 
 <div align="center">
-  <a href="mailto:mohibk0004@gmail.com"><img src="https://img.shields.io/badge/Email-mohibk0004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/clicksbymohib"><img src="https://img.shields.io/badge/Instagram-@clicksbymohib-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:mohibk0004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mohibk0004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/clicksbymohib">
+    <img src="https://img.shields.io/badge/Instagram-@clicksbymohib-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </div>
