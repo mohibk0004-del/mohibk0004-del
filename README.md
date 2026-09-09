@@ -48,7 +48,7 @@ I'm a Computer Science student who enjoys building things across software develo
 
 ### Featured Projects
 
-#### [Zero-in](https://github.com/mohibk0004-del/zero-in-workspace)
+#### [Zero-in](https://mohib.wiki)
 
 An AI-powered study workspace that turns notes, PDFs, images, and typed topics into structured study material and interactive recall practice.
 
